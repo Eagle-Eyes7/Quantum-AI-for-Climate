@@ -52,13 +52,12 @@ _Include a comprehensive summary of all important information about your project
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 The Quantum+AI for Climate project combines quantum computing with AI to tackle climate anomaly detection. By using advanced quantum algorithms like QPE and HHL, EcoQubitiers integrated quantum machine learning with large-scale climate datasets of India, achieving significantly faster anomaly detection compared to classical machine learning methods, all while maintaining high confidence in the results. 
 The presentation File:https://docs.google.com/presentation/d/1qy2-meUMTR7QU6HHprGU39RMSQr_be4m8_-jA1RDo34/edit?usp=sharing
-The 3-minute presentation :https://drive.google.com/file/d/1VFAdspgpo_q12kampF_l0nfy2cvwNEEs/view?usp=drive_link
 The Description Dcument:https://docs.google.com/document/d/1cpA78Fz11WjRodBl_bhlXpCLD15X8lq7-snVO6GKFnM/edit?usp=sharing
 https://github.com/maralbu/NNL :This is the link to our own public repository.
 
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
-
+The 3-minute presentation :https://drive.google.com/file/d/1VFAdspgpo_q12kampF_l0nfy2cvwNEEs/view?usp=drive_link
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
