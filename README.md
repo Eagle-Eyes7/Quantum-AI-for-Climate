@@ -56,7 +56,7 @@ The presentation File : https://docs.google.com/presentation/d/1qy2-meUMTR7QU6HH
 
 The Description Dcument : https://docs.google.com/document/d/1cpA78Fz11WjRodBl_bhlXpCLD15X8lq7-snVO6GKFnM/edit?usp=sharing
 
-DataSet Link(Due to the size we were unable to upload it on github) : https://drive.google.com/file/d/1RjbxZT3-2Prc9iz7YH0jqLT6lHxuoTrL/view?usp=drive_link
+Dataset Link (Due to the size we were unable to upload it on github) : https://drive.google.com/file/d/1RjbxZT3-2Prc9iz7YH0jqLT6lHxuoTrL/view?usp=drive_link
 
 This is the link to our own public repository : https://github.com/maralbu/NNL 
 
