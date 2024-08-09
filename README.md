@@ -61,6 +61,8 @@ This is the link to our own public repository : https://github.com/maralbu/NNL
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
-The 3-minute presentation :https://drive.google.com/file/d/1VFAdspgpo_q12kampF_l0nfy2cvwNEEs/view?usp=drive_link
+
+The 3-minute presentation : https://drive.google.com/file/d/1VFAdspgpo_q12kampF_l0nfy2cvwNEEs/view?usp=drive_link
+
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
 
