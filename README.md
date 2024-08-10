@@ -39,6 +39,8 @@ Team Member 1:
 Team Member 2:
  - Full Name: Muhammad Waqar Amin
  - Womanium Program Enrollment ID (see Welcome Email, format- WQ24-xxxxxxxxxxxxxxx): WQ24-GC84UfvTUo5Fbrg
+ - LinkedIn [here](https://www.linkedin.com/in/muhammad-waqar-amin-qubits/))
+ - Github [here](https://www.github.com/Eagle-Eyes7))
 
 
 Team Member 3:
@@ -54,7 +56,7 @@ The Quantum+AI for Climate project combines quantum computing with AI to tackle 
 
 The presentation File : https://docs.google.com/presentation/d/1qy2-meUMTR7QU6HHprGU39RMSQr_be4m8_-jA1RDo34/edit?usp=sharing
 
-The Description Dcument : https://docs.google.com/document/d/1cpA78Fz11WjRodBl_bhlXpCLD15X8lq7-snVO6GKFnM/edit?usp=sharing
+The Description Docuument : https://docs.google.com/document/d/1cpA78Fz11WjRodBl_bhlXpCLD15X8lq7-snVO6GKFnM/edit?usp=sharing
 
 Dataset Link (Due to the size we were unable to upload it on github) : https://drive.google.com/file/d/1RjbxZT3-2Prc9iz7YH0jqLT6lHxuoTrL/view?usp=drive_link
 
